@@ -1,4 +1,3 @@
-
 export default function WhyUs() {
   const benefits = [
     {
@@ -86,14 +85,14 @@ export default function WhyUs() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center space-y-3 sm:space-y-0 sm:space-x-4">
               <a
-                href="tel:+40728888404"
+                href="tel:+40700000000"
                 className="bg-[#B41E1E] text-white px-6 py-3 rounded-2xl font-semibold hover:bg-[#9A1A1A] transition-colors whitespace-nowrap flex items-center space-x-2"
               >
                 <i className="ri-phone-line"></i>
                 <span>Sună acum, gătim pe loc</span>
               </a>
               <a
-                href="https://wa.me/40728888404"
+                href="https://wa.me/40700000000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-[#25D366] text-white px-6 py-3 rounded-2xl font-semibold hover:bg-[#20B858] transition-colors whitespace-nowrap flex items-center space-x-2"
