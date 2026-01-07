@@ -1,4 +1,3 @@
-
 export default function Hero() {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
@@ -57,12 +56,12 @@ export default function Hero() {
           </button>
           
           <a
-            href="tel:+40728888404"
+            href="tel:+40700000000"
             className="w-full sm:w-auto bg-white/20 backdrop-blur-sm text-white border-2 border-white/30 px-4 sm:px-6 lg:px-8 py-3 sm:py-4 rounded-2xl text-sm sm:text-base lg:text-lg font-semibold hover:bg-white/30 transition-all duration-300 transform hover:scale-105 whitespace-nowrap flex items-center justify-center space-x-2"
           >
             <i className="ri-phone-line"></i>
-            <span className="hidden sm:inline">Comandă telefonic: 0728 888 404</span>
-            <span className="sm:hidden">0728 888 404</span>
+            <span className="hidden sm:inline">Comandă telefonic: 070 000 000</span>
+            <span className="sm:hidden">070 000 000</span>
           </a>
         </div>
       </div>
