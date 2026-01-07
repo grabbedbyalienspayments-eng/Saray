@@ -124,7 +124,7 @@ export default function Menu() {
             <h3 className="text-lg font-semibold text-[#1C1C1C]">Observații importante</h3>
           </div>
           <p className="text-[#1C1C1C]/80">
-            Prețuri orientative; ingredientele premium pot varia ușor. Pentru comenzi și informații actualizate, vă rugăm să ne contactați telefonic la <strong>0728 888 404</strong>.
+            Prețuri orientative; ingredientele premium pot varia ușor. Pentru comenzi și informații actualizate, vă rugăm să ne contactați telefonic la <strong>0700 000 000</strong>.
           </p>
         </div>
       </div>
