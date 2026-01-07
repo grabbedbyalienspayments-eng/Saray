@@ -1,4 +1,3 @@
-
 export default function Delivery() {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
@@ -90,21 +89,21 @@ export default function Delivery() {
 
             <div className="space-y-4 mb-8">
               <a
-                href="tel:+40728888404"
+                href="tel:+40700000000"
                 className="flex items-center justify-between bg-[#B41E1E] text-white p-4 rounded-xl hover:bg-[#9A1A1A] transition-colors group"
               >
                 <div className="flex items-center">
                   <i className="ri-phone-line text-2xl mr-4"></i>
                   <div>
                     <div className="font-semibold">Sună acum, gătim pe loc</div>
-                    <div className="text-sm opacity-90">0728 888 404</div>
+                    <div className="text-sm opacity-90">070 000 000</div>
                   </div>
                 </div>
                 <i className="ri-arrow-right-line text-xl group-hover:translate-x-1 transition-transform"></i>
               </a>
 
               <a
-                href="https://wa.me/40728888404"
+                href="https://wa.me/40700000000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between bg-[#25D366] text-white p-4 rounded-xl hover:bg-[#20B858] transition-colors group"
@@ -160,14 +159,14 @@ export default function Delivery() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center space-y-3 sm:space-y-0 sm:space-x-4">
               <a
-                href="tel:+40728888404"
+                href="tel:+40700000000"
                 className="bg-white text-[#B41E1E] px-8 py-3 rounded-2xl font-semibold hover:bg-gray-100 transition-colors whitespace-nowrap flex items-center space-x-2"
               >
                 <i className="ri-phone-line"></i>
-                <span>Comenzi: 0728 888 404</span>
+                <span>Comenzi: 070 000 000</span>
               </a>
               <a
-                href="https://wa.me/40728888404"
+                href="https://wa.me/40700000000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-[#25D366] text-white px-8 py-3 rounded-2xl font-semibold hover:bg-[#20B858] transition-colors whitespace-nowrap flex items-center space-x-2"
