@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 
 export default function Contact() {
@@ -74,7 +73,7 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-[#C8A46B] mx-auto mb-6"></div>
           <p className="text-base sm:text-lg text-[#1C1C1C]/80 max-w-2xl mx-auto px-4">
-            Te așteptăm la Str. Horea 15, Cluj-Napoca. Sună pentru comenzi sau rezervări: 0728 888 404.
+            Te așteptăm la Str. Horea 15, Cluj-Napoca. Sună pentru comenzi sau rezervări: 070 000 000.
           </p>
         </div>
 
@@ -114,7 +113,7 @@ export default function Contact() {
                     onChange={handleInputChange}
                     required
                     className="w-full px-3 sm:px-4 py-2 sm:py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-[#B41E1E] focus:border-transparent text-sm"
-                    placeholder="0728 888 404"
+                    placeholder="070 000 000"
                   />
                 </div>
               </div>
@@ -251,8 +250,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-[#1C1C1C] mb-1 text-sm sm:text-base">Telefon</h4>
-                    <a href="tel:+40728888404" className="text-[#B41E1E] hover:underline text-xs sm:text-sm">
-                      0728 888 404
+                    <a href="tel:+40700000000" className="text-[#B41E1E] hover:underline text-xs sm:text-sm">
+                      070 000 000
                     </a>
                   </div>
                 </div>
@@ -286,7 +285,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-[#1C1C1C] mb-1 text-sm sm:text-base">WhatsApp</h4>
                     <a 
-                      href="https://wa.me/40728888404" 
+                      href="https://wa.me/40700000000" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-[#25D366] hover:underline text-xs sm:text-sm"
